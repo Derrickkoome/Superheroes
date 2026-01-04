@@ -1,0 +1,8 @@
+
+
+Flask==2.2.5
+Flask-SQLAlchemy==3.0.3
+# Use a released Flask-Migrate compatible version
+Flask-Migrate==4.1.0
+
+
